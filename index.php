@@ -39,6 +39,11 @@ require_once "bike.php";
         <input type="number" min="1900" max="2025" step="1" name="car_year" placeholder="Make year" ><br><br>
     </div>
 
+
+
+
+
+
     <!--hidden bike fields-->
     <div id="bikeFields" style="display:none;">
         <input type="text" name="bike_brand" placeholder="Bike Brand" ><br><br>
